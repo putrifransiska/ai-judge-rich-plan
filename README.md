@@ -1,5 +1,9 @@
 # ai-judge-rich-01 entry
 
+[![Make the AI judge rich](https://make.fun/badge/ai-judge-rich-01.svg)](https://make.fun/bounty/ai-judge-rich-01)
+[![Rank](https://make.fun/badge/ai-judge-rich-01/putrifransiska/ai-judge-rich-plan/rank.svg)](https://make.fun/bounty/ai-judge-rich-01)
+[![Reward](https://make.fun/badge/ai-judge-rich-01/putrifransiska/ai-judge-rich-plan/reward.svg)](https://make.fun/bounty/ai-judge-rich-01)
+
 Entry for make.fun's "Make the AI judge rich" bounty. `main.py` (Python 3.13, standard library only) writes one
 fixed plan of at most 1,000 characters to `/output/entry.txt`. It uses no network and writes the same bytes on
 every run.
